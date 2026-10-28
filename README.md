@@ -1,10 +1,3 @@
+## AI Automation Projects
 
-## ShipHero to Make.com API Integration
-
-Custom API integration connecting ShipHero with Make.com to automate workflows, manage API authentication, and streamline data exchange for El Famoso USA. The project includes authentication data storage and automated Make.com scenarios.
-
-### Technologies Used
-- ShipHero API
-- Make.com
-- REST API
-- Workflow Automation
+AI-powered automation solutions designed to streamline business workflows, reduce repetitive tasks, and improve operational efficiency. This project focuses on integrating AI tools, APIs, and automation platforms to automate data processing, lead management, customer communication, and business operations.
